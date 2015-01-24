@@ -1,7 +1,7 @@
-# Coverage Profiler
+### Coverage Profiler
 
 ```
-Usage: perl coverage.profiler.pl [options] --id <Sample ID> <bam file(s)>
+Usage: perl coverage-profiler.pl [options] --id <Sample ID> <bam file(s)>
 
 Options:
   -i, --id              Sample ID (required)
@@ -9,3 +9,5 @@ Options:
   -o, --out_dir         Output directory [.]
   -h, --help            Display this usage information
 ```
+
+*Version 0.1.0*
